@@ -1,0 +1,3 @@
+[submodule "cerberus_messaging"]
+	path = cerberus_messaging
+	url = https://github.com/wndouglas/cerberus_messaging
