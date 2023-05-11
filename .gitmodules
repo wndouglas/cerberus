@@ -1,3 +1,6 @@
 [submodule "cerberus_messaging"]
 	path = cerberus_messaging
 	url = https://github.com/wndouglas/cerberus_messaging
+[submodule "cerberus_dummy_producer"]
+	path = cerberus_dummy_producer
+	url = https://github.com/wndouglas/cerberus_dummy_producer
