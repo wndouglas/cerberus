@@ -12,3 +12,4 @@ services:
     volumes:
       - ~/.docker-conf/rabbitmq/data/:/var/lib/rabbitmq/
       - ~/.docker-conf/rabbitmq/log/:/var/log/rabbitmq
+      - ./cerberus_messaging/rabbitmq.conf:/etc/rabbitmq/rabbitmq.conf
